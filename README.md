@@ -34,8 +34,9 @@ Here are some ideas to get you started:
 
 <br/>
 
+<!--
 [![mouraaa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mouraaa&show_icons=true)](https://github.com/mouraaa)
-
+-->
 <h3> 🤝🏻 Connect with Me </h3>
 
 
