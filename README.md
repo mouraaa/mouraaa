@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Java | Python 
-- 🌐 &nbsp; Basic HTML | CSS 
+- 🌐 &nbsp; Basic HTML | Basic CSS 
 - 🛢 &nbsp; PostgresSQL 
 - 🔧 &nbsp; Git 
 
