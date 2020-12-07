@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 💼 &nbsp; Looking for an internship so if you got a connection, let me know!
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - ✍️ &nbsp; Learning more about databases and next semester, algorithims and datastructures.
-- ⚽ &nbsp; Love to play soccer during my free time
+- ⚽ &nbsp; Love to play soccer during my free time!
 
 
 <h3>🛠 Tech Stack</h3>
