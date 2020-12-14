@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🎓 &nbsp; Studying Computer Science at Brooklyn College.
 - 💼 &nbsp; Looking for an internship so if you got a connection, let me know!
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- ✍️ &nbsp; Learning more about databases and next semester, algorithims and datastructures.
+- ✍️ &nbsp; Learning more about databases and next semester, algorithims and data structures.
 - ⚽ &nbsp; Love to play soccer during my free time!
 
 
